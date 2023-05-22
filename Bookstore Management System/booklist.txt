@@ -1,0 +1,10 @@
+Lawak Kampus;Comedy;Melayu;2015;15.60
+Makanan Berkhasiat;Fact;Melayu;2016;29.80
+Sejarah;Education;Melayu;2017;42.50
+Sehingga Bertemu Lagi;Romance;Melayu;2018;45.90
+Asrama;Fiction;Melayu;2019;39.99
+How to invest;Education;English;2015;49.99
+Ghost;Comedy;English;2016;29.50
+Witch's Love;Romance;English;2017;39.50
+Politics in Malaysia;Fact;English;2018;16.50
+Five Feet Apart;Fiction;English;2019;32.50

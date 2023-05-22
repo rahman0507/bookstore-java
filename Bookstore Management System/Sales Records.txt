@@ -1,0 +1,12 @@
+CUSTOMER NAME: RAHMAN
+
+
+Title book: Five Feet Apart
+Price: RM32.5
+Total you buy this book: 2
+Total Price: RM65.0
+
+
+
+
+##########################################################

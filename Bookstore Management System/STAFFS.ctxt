@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=STAFFS
+comment1.params=custname\ custage\ staffId
+comment1.target=STAFFS(java.lang.String,\ int,\ java.lang.String)
+comment2.params=staffId
+comment2.target=void\ setId(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=double\ discount()
+comment5.params=totalboth
+comment5.target=double\ pricediscount(double)
+comment6.params=totalboth
+comment6.target=double\ totalpay(double)
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=java.lang.String\ print()
+numComments=9

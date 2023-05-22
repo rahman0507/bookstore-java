@@ -1,0 +1,11 @@
+Pencil;1.00
+Eraser;1.00
+Blue Pen;1.50
+Red Pen;1.50
+Black Pen;1.50
+Correction Tape;2.50
+Stapler;5.00
+Sallotape;3.00
+Highlighter;2.50
+Calculator;65.00
+Ruler;1.00

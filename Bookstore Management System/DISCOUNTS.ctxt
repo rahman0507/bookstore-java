@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DISCOUNTS
+comment1.params=csts\ totalboth
+comment1.target=DISCOUNTS(CUSTOMERS,\ double)
+comment2.params=csts\ totalboth
+comment2.target=void\ setAll(CUSTOMERS,\ double)
+comment3.params=
+comment3.target=double\ discounts()
+comment4.params=
+comment4.target=double\ totalpay()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

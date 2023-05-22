@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=STATIONERY
+comment1.params=
+comment1.target=STATIONERY()
+comment2.params=sn\ sp
+comment2.target=STATIONERY(java.lang.String,\ double)
+comment3.params=sn\ sp
+comment3.target=void\ setAll(java.lang.String,\ double)
+comment4.params=
+comment4.target=java.lang.String\ getStatname()
+comment5.params=
+comment5.target=double\ getStatprice()
+comment6.params=statchoice\ numstat
+comment6.target=double\ priceStationery(int,\ int)
+comment7.params=numstat
+comment7.target=java.lang.String\ displayoutput(int)
+numComments=8
